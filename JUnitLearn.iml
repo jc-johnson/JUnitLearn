@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-1.2-api/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-1.2-api/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-api/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-api/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-core/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-core/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-flume-ng/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-flume-ng/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-iostreams/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-iostreams/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-jcl/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-jcl/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-jmx-gui/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-jul/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-jul/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-liquibase/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-liquibase/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-nosql/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-nosql/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-perf/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-samples/configuration/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-samples/configuration/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-samples/flume-common/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-samples/loggerProperties/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-samples/loggerProperties/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-slf4j-impl/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-slf4j-impl/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-taglib/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-taglib/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-to-slf4j/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-to-slf4j/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-web/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/apache-log4j-2.5-src/log4j-web/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/site/apidocs" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/contribs/CekiGulcu" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/contribs/Jamie Tsao" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/contribs/JimMoore" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/contribs/ThomasFenner" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/src/main/java" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/src/main/javadoc" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/src/performance/java" />
+          <root url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17/tests/src/java" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/lib/apache-log4j-1.2.17" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
